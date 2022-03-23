@@ -1,5 +1,5 @@
 Sistemas Operativos:
--> Atualizar OneNote com comandos
+-> 
 
 Comunicação de Dados:
 -> Rever matéria
