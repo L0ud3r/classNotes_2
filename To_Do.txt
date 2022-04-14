@@ -1,10 +1,2 @@
-Sistemas Operativos:
--> 
-
-Comunicação de Dados:
--> Rever matéria
--> Ver DNS (50%)
--> Ver Multiplexer (MUX) (50%)
-
 Visão por Computadores:
 -> Atualizar vc.c e vc.h + valores testes
